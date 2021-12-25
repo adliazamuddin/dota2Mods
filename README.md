@@ -10,10 +10,10 @@ Guide to mod Dota 2
 2. Download the mods file and gameinfo.gi file
 4. Create a folder named "Mods" inside (..\Steam\steamapps\common\dota2 beta\game\)
 5. Paste mods file "pak01_dir.vpk" to the folder "Mods"
-[mods picture](mods.png)
+![mods picture](mods.png)
 6. Navigate to (..\Steam\steamapps\common\dota2 beta\game\dota\) 
 7. Paste the gameinfo.gi
-[gameinfo picture](gameinfo.png)
+![gameinfo picture](gameinfo.png)
 
 
 
