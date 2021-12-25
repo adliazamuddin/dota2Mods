@@ -1,4 +1,6 @@
-![animation gif](animation.gif)
+<p align="center">
+  <img src="animation.gif" alt="animated" />
+</p>
 
 # dota2Mods
 Guide to mod Dota 2
