@@ -2,8 +2,8 @@
 Guide to mod Dota 2
 
 ## Source
-* https://dota2shadymod.forumcommunity.net/
-* [Join discord](https://discord.gg/ETPQ7rY)
+* [Forum](https://dota2shadymod.forumcommunity.net/)
+* [Discord](https://discord.gg/ETPQ7rY)
 
 ## How to Install
 1. Join the discord server and pick which mods you want to download
