@@ -1,5 +1,6 @@
 # dota2Mods
 Guide to mod Dota 2
+![animation gif](animation.gif)
 
 ## Source
 * [Forum](https://dota2shadymod.forumcommunity.net/)
